@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **backend-developement**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Swastik200?tab=repositories-](github)
+- 👨‍💻 All of my projects are available at (https://github.com/Swastik200)(github)
 
 - 📫 How to reach me **2041013264.swastikmishra@gmail.com**
 
